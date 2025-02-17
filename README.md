@@ -9,3 +9,15 @@ The project is available on GitHub Pages, demonstrating live deployments.
 It includes five commits, starting from March 14, 2024, to April 12, 2024.
 The repository has 1 star, 1 watching, and 0 forks as of now.
 The main branch includes a README file for context and setup instructions.
+
+The repository titled "front-end-using-react-js" contains several React.js-based projects, each demonstrating different features and functionalities. The main features of the React projects in this repository include:
+
+1) Calculator: A basic calculator built with React.js, allowing users to perform arithmetic operations.
+
+2) DiceGame: A simple dice game where users can roll dice, likely with a simple UI for interaction.
+
+3) Form-project: A form implementation in React, demonstrating form handling and validation.
+
+react-scroll-reveal-framer-motion-main: A project demonstrating the use of the react-scroll-reveal and framer-motion libraries for adding animations and scroll reveal effects.
+
+The repository also includes a README file for context and setup instructions. The codebase is primarily in JavaScript (73.7%), with smaller portions in CSS, HTML, and TypeScript. The repository has been deployed live via GitHub Pages, and it includes five commits, from March 14, 2024, to April 12, 2024. It has 1 star, 1 watching, and 0 forks as of now.
